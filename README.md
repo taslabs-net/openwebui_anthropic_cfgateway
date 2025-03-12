@@ -1,5 +1,7 @@
 # And Anthropic to Open WebUi with Cloudflare AI Gateway
 
+Assumes AI Gateway is enabled 
+
 ## Directions
 
 1. Head to the admin panel of Open WebUi -> Functions -> Add new -> Paste Content of [anthropic_manifold_pipe.md](https://github.com/taslabs-net/openwebui_anthropic_cfgateway/blob/main/anthropic_manifold_pipe.md)
